@@ -46,6 +46,6 @@ It is used to verify the target artifact does indeed have the designed program h
 
 ## License
 
-This project is licensed under [MIT](LICENSE), but it does not grant any rights to WIBU Systems' trademarks or intellectual property.
+This project is licensed under [MIT](https://choosealicense.com/licenses/mit), but it does not grant any rights to WIBU Systems' trademarks or intellectual property.
 
 
