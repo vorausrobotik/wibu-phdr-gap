@@ -6,6 +6,9 @@ edition = "2024"
 description = "The phdr gap guarantees WIBU Systems AxProtector to find enough space to install its tooling."
 license = "MIT"
 repository = "https://github.com/vorausrobotik/wibu-phdr-gap"
+readme = "README.md"
+categories = ["development-tools", "rust-patterns", "security", "api-bindings", "science::robotics"]
+keywords = ["WIBU", "AxProtector", "placeholder", "PHDR", "binary"]
 
 [dependencies]
 
