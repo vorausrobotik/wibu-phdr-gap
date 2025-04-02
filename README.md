@@ -39,6 +39,11 @@ There's an example available which can be inspected for reference and is automat
 Thanks to WIBU Systems AG for kindly providing the magic string under the MIT license and their fast response times.
 This project was developed at voraus robotik GmbH. Special thanks to Lukas Beckmann for his contributions.
 
+## Dependencies
+
+This crate aims for the least possible amount of dependencies and currently uses `elf` as development dependency only.
+It is used to verify the target artifact does indeed have the designed program header.
+
 ## License
 
 This project is licensed under [MIT](LICENSE), but it does not grant any rights to WIBU Systems' trademarks or intellectual property.
