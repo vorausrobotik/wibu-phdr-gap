@@ -14,7 +14,7 @@ Add `wibu-phdr-gap` to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-wibu-phdr-gap = "*"
+wibu-phdr-gap = "1"
 ```
 
 ## Usage
