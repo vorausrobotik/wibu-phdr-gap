@@ -1,6 +1,6 @@
 [package]
 name = "wibu-phdr-gap"
-version = "0.1.0"
+version = "1.0.0-beta.0"
 authors = ["Jan-Niklas Burfeind <jan-niklas.burfeind@vorausrobotik.com>", "Lukas Beckmann <lukas.beckmann@vorausrobotik.com>"]
 edition = "2024"
 description = "The phdr gap guarantees WIBU Systems AxProtector to find enough space to install its tooling."
