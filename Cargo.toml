@@ -13,4 +13,4 @@ keywords = ["WIBU", "AxProtector", "placeholder", "PHDR", "binary"]
 [dependencies]
 
 [dev-dependencies]
-elf = "0.7.4"
+elf = "0.8.0"
